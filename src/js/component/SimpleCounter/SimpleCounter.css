@@ -1,0 +1,21 @@
+body {
+    background-color: #12073D;
+}
+
+.bigCounter {
+    text-align: center;
+    background: #12073D;
+    margin-top: 40px;
+}
+
+.bigCounter div {
+    display: inline-block;
+    border: 1px solid #17065B;
+    font-size: 100px;
+    line-height: 100px;
+    background-color: #17065B;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 6px;
+    border-radius: 10px;
+}
